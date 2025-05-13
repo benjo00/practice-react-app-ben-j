@@ -1,0 +1,43 @@
+#Jarmy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+color: blue;
+border: 10px solid;
+border-color: black;
+padding: 5%;
+margin: 2px;;
+}
+
+#Big {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: green;
+  border: 10px solid;
+  border-color: black;
+  padding: 5%;
+  margin: 2px;
+}
+
+body {
+  
+    margin: 0;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  #Ship {
+    color: goldenrod;
+border: 10px solid;
+border-color: black;
+padding: 5%;
+margin: 2px;
+
+  }
+
