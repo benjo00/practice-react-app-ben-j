@@ -7,8 +7,9 @@
 color: blue;
 border: 10px solid;
 border-color: black;
-padding: 5%;
-margin: 2px;;
+padding: 30%;
+margin: 2px;
+background-image: url('https://www.dndbeyond.com/avatars/thumbnails/47139/255/1000/1000/638741964656536353.jpeg');
 }
 
 #Big {
@@ -18,8 +19,9 @@ margin: 2px;;
   color: green;
   border: 10px solid;
   border-color: black;
-  padding: 5%;
+  padding: 30%;
   margin: 2px;
+  background-image: url('https://www.dndbeyond.com/avatars/thumbnails/30834/149/1000/1000/638063882505895317.png');
 }
 
 body {
@@ -36,8 +38,17 @@ body {
     color: goldenrod;
 border: 10px solid;
 border-color: black;
-padding: 5%;
+padding: 30%;
 margin: 2px;
+background-image: url('https://upload.wikimedia.org/wikipedia/en/6/60/Beholder_%28D%26D%29.JPG');
+background-repeat: no-repeat;
+background-size: contain ;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column-reverse;
+
+
 
   }
 
